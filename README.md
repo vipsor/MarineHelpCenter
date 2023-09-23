@@ -1,2 +1,2 @@
 # MarineHelpCenter
-新SNSのヘルプ・バグ報告はこちらへ
+新SNSのヘルプ・バグ報告は[こちら](https://github.com/vipsor/MarineHelpCenter/wiki/%E3%83%98%E3%83%AB%E3%83%97%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC-%E2%80%90-TOP#%E7%84%A1%E6%96%99%E3%81%A7%E4%BA%BA%E3%80%85%E3%81%8C%E4%B8%80%E3%81%A4%E3%81%AE%E5%AE%B6%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E9%9B%86%E3%81%BE%E3%82%8C%E3%82%8Bsns%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99) へ
